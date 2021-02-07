@@ -1,4 +1,4 @@
-FROM composer:lastest
+FROM composer:latest
 
 WORKDIR /var/www/html
 
